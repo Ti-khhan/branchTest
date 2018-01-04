@@ -15,6 +15,7 @@
     "debug": "^2.2.0",
     "express": "^4.14.0",
     "git": "^0.1.5",
+    "github": "^13.0.1",
     "morgan": "^1.7.0",
     "pug": "^2.0.0-beta6",
     "serve-favicon": "^2.3.0"
